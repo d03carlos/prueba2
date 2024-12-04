@@ -1,0 +1,29 @@
+body{
+    color: chartreuse;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /*background-image: url("/img/fondomatrix.gif")*/
+}
+.cabecera{
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+/*.nav li{
+    text-decoration: none;
+}*/
+.seccion2{
+    background: #f2adf6;
+    padding: 40px;
+    color: black;
+    text-align: center;
+}
+.titulo{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    flex-wrap: wrap;
+}
+.foot{
+    background: #4709d9;
+    color: #fff;
+    padding: 10px;
+}

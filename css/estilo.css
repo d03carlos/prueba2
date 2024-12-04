@@ -1,0 +1,21 @@
+body{
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p{
+    color: brown;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    text-decoration: none;
+}
+#parrafo{
+    color: rgb(71, 223, 12);
+}
+#prueba{
+    color: rgb(29, 1, 8);
+    font-family: 'Times New Roman', Times, serif;
+}
+.foot{
+    background: #4709d9;
+    color: #fff;
+}
